@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PUC Minas Virtual (por Cibele Ramos)</string>
+    <string name="login">Login</string>
+    <string name="email">Digite seu e-mail</string>
+    <string name="senha">Digite sua senha</string>
+    <string name="senha_valida">Digite uma senha válida</string>
+    <string name="erro_rede">Sem conexão com a rede.</string>
+    <string name="errorString">Usuário ou senha inválidos</string>
+</resources>
